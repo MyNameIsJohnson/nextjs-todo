@@ -1,37 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Next-Todo](https://multiple-choice-game.netlify.app/)
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a simple desktop todo form built with Next.js
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### The challenge
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Learn a new framework
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Designs
 
-## Learn More
+[Figma Project Here](https://www.figma.com/file/rpA7CaerAd3VAClaRv4ilz/Untitled?node-id=3%3A90)
 
-To learn more about Next.js, take a look at the following resources:
+### Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Solution URL: [GitHub Repo](https://github.com/MyNameIsJohnson/nextjs-todo)
+- Live Site URL: [Next Todo](https://nextjs-todo-mynameisjohnson.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## My process
 
-## Deploy on Vercel
+### Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Next.js](https://nextjs.org/)
+- Semantic HTML5 markup
+- Custom CSS components
+- CSS Flex Box
+- [React.js](https://reactjs.org/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# next-todo
-# next-todo
-# nextjs-todo
+### What I learned
+
+- File based Routing: Defining pages and routes with files and folders instead of code. Less code, less work, highly understandable
+
+- Server side Rendering: Automatic page prerendering which is great for SEO and initial load. Being able to blend client side and server side rendering by fetching data on the server and render finished pages to the browser
+
+- Fullstack Capabilities: Easily add backend (server side) code to your Next/React apps with API Routes. Storing data, getting data authentication etc. can be added to our React projects
+
+### Useful resources
+
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+
+## Author
+
+- Johnson Thieu - Developer
+  - [Website](https://johnsonthieu-react-portfolio.netlify.app/)
+  - [Linkedin](https://www.linkedin.com/in/johnson-thieu/)
