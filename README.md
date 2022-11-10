@@ -1,4 +1,5 @@
-# [Next-Todo](https://multiple-choice-game.netlify.app/)
+# [Next-Todo](https://nextjs-todo-ruby.vercel.app/)
+- Deployed on Vercel
 
 ## Table of contents
 
